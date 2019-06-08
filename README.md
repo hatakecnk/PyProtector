@@ -16,7 +16,8 @@ $ git clone https://github.com/hatakecnk/PyProtector
 ```
 $ cd PyProtector
 $ python2 enc -i [input] -o [output]
-Ex : python2 enc -i in.py -o out.py```
+Ex : python2 enc -i in.py -o out.py
+```
 
 # For Help
 ```
