@@ -2,7 +2,7 @@
 Encrypt Pytyon Code New Version
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
-![alt text](https://img.shields.io/badge/Size-24.00KB-yellow.svg)
+![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 ![alt text](https://raw.githubusercontent.com/hatakecnk/hatakecnk.github.io/master/IMG_20190608_150332.jpg)
 
